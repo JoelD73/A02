@@ -31,4 +31,4 @@ GLOSSARY
 References
   - JetBrains Webstorm: https://www.jetbrains.com/webstorm/
   - Git: https://git-scm.com/
-  - GitHub: github.com
+  - GitHub: https://github.com/
